@@ -1,3 +1,6 @@
+#python 2.7
+
+
 a=input()
 b=input()
 m=a/b

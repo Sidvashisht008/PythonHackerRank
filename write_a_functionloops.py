@@ -1,3 +1,5 @@
+#python 2.7
+
 def is_leap(year):
     if year%4==0:
         if year%400!=0 and year%100==0:

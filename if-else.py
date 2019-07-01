@@ -1,3 +1,5 @@
+#python 2.7
+
 n=input()
 if n%2!= 0:
     print 'Weird'

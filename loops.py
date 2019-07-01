@@ -1,3 +1,5 @@
+#python 2.7
+
 N=input()
 if N in range(1,21):
     for i in range(0,N):
